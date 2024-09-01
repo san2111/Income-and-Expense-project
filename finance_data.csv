@@ -1,0 +1,32 @@
+date,amount,category,description
+21-11-2001,3920.0,Expense,
+29-04-2004,938.0,Income,
+15-08-2010,5000.0,Income,Salary
+18-07-2011,3200.0,Expense,Medical
+07-08-2012,1800.0,Expense,Food
+13-04-2014,9000.0,Income,Bonus
+23-03-2015,1500.0,Expense,Groceries
+22-11-2016,8000.0,Income,Investment
+30-09-2017,2200.0,Expense,Books
+21-06-2018,3500.0,Expense,Transport
+10-10-2018,3000.0,Expense,Travel
+05-05-2019,15000.0,Income,Project
+25-12-2019,10000.0,Income,Gift
+29-02-2020,12000.0,Income,Freelance
+12-12-2020,20000.0,Income,Bonus
+03-07-2021,4000.0,Expense,Household
+11-11-2021,2700.0,Expense,Clothing
+01-01-2022,4500.0,Expense,Entertainment
+14-02-2023,7000.0,Income,Freelance
+05-06-2023,2500.0,Expense,Utilities
+09-12-2023,11000.0,Income,Salary
+19-03-2024,6000.0,Income,Consulting
+01-07-2024,3000.0,Income,Mid Year
+25-12-2024,2000.0,Expense,Christmas
+31-12-2024,10000.0,Expense,Year End
+01-01-2025,5000.0,Expense,New Year
+15-08-2025,7500.0,Income,Independence Day
+
+
+
+
